@@ -3,6 +3,7 @@ package com.oracle.test;
 public class hello {
     public static void main(String[] args) {
         System.out.println("hello word!");
+        System.out.println("dev修改12");
         System.out.println("master修改1231");
     }
 }
